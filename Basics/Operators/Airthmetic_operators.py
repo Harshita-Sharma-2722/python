@@ -1,0 +1,9 @@
+a=17
+b=5
+print("add= ",a+b)
+print("sub= ",a-b)
+print("mul= ",a*b)
+print("div= ",a/b)
+print("folat division= ",a//b)
+print("modulus= ",a%b)
+print("exponent= ",a**b)

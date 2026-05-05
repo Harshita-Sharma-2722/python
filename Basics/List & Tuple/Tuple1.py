@@ -1,0 +1,6 @@
+student = ("Rahul", 20, "CSE", 8.5)
+print("name= ",student[0])
+print("Age:", student[1])
+print("Branch:", student[2])
+print("CGPA:", student[3])
+print("length= ",len(student))
